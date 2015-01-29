@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4e5603a1-a6d0-49f9-b5aa-5112545e0a78" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/Course.php" afterPath="$PROJECT_DIR$/classes/Course.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/oopExercise.php" afterPath="$PROJECT_DIR$/oopExercise.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="oop.iws" />
@@ -29,10 +28,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="oopExercise.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="oopExercise.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/oopExercise.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7446808" vertical-offset="250" max-vertical-offset="960">
+            <state vertical-scroll-proportion="-12.244898" vertical-offset="0" max-vertical-offset="960">
               <caret line="15" column="2" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
               <folding />
             </state>
@@ -49,11 +48,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Course.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Course.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/classes/Course.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-10.594595" vertical-offset="0" max-vertical-offset="560">
-              <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+            <state vertical-scroll-proportion="0.22626263" vertical-offset="0" max-vertical-offset="616">
+              <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -84,8 +83,8 @@
       <list>
         <option value="$PROJECT_DIR$/classes/Bkiict.php" />
         <option value="$PROJECT_DIR$/classes/Student.php" />
-        <option value="$PROJECT_DIR$/classes/Course.php" />
         <option value="$PROJECT_DIR$/oopExercise.php" />
+        <option value="$PROJECT_DIR$/classes/Course.php" />
       </list>
     </option>
   </component>
@@ -259,18 +258,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/classes/Course.php">
+    <entry file="file://$PROJECT_DIR$/oopExercise.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.594595" vertical-offset="0" max-vertical-offset="560">
-          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        <state vertical-scroll-proportion="-12.244898" vertical-offset="0" max-vertical-offset="960">
+          <caret line="15" column="2" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/oopExercise.php">
+    <entry file="file://$PROJECT_DIR$/classes/Course.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7446808" vertical-offset="250" max-vertical-offset="960">
-          <caret line="15" column="2" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
+        <state vertical-scroll-proportion="0.22626263" vertical-offset="0" max-vertical-offset="616">
+          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
           <folding />
         </state>
       </provider>
