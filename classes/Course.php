@@ -1,7 +1,9 @@
 <?php
 class Course{
     function __set($a,$b){
-        echo "Hi";
+       // echo "Hi";
+        var_dump($a);
+        var_dump($b);
 
     }
 }
