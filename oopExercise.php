@@ -9,9 +9,11 @@ $student=new Student();
 //var_dump($student);
 
 $course=new Course();
-echo $course->title;
-echo "<br/>";
+//echo $course->title;
+//echo "<br/>";
 $course->title='Course title';
-echo $course->title;
-echo "<br/>";
-var_dump($course);
+//echo $course->title;
+//echo "<br/>";
+//$course->getcredits('hello','hi');
+//$course->getlessons('how');
+//var_dump($course);
